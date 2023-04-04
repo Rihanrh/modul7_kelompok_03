@@ -7,3 +7,9 @@ public class Program
         teamMembers.ReadJSON();
     }
 }
+
+        DataMahasiswa1302213043 dataMahasiswa = new DataMahasiswa1302213043();  
+        dataMahasiswa.ReadJSON();
+    }
+}
+
