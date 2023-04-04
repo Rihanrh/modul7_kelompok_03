@@ -6,6 +6,10 @@ class Program
 {
     public static void Main(string[] args)
     {
+
+        TeamMembers1302210028 tm = new TeamMembers1302210028();
+        tm.ReadJSON();
+
         DataMahasiswa1302210028 dm = new DataMahasiswa1302210028();
         dm.ReadJSON();
         
