@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Rihan",
+       "lastName": "Hidayat",
+       "gender": "male",
+       "age": 21,
+       "nim": "1302210028"
+    },
+    {
+       "firstName": "Liyan Made Leon",
+       "lastName": "Wayan",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302213037"
+    },
+    {
+      "firstName": "Hilman Fariz",
+      "lastName": "Hirzi",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302213092"
+    },
+    {
+      "firstName": "Putri Auliya",
+      "lastName": "Rahma",
+      "gender": "female",
+      "age": 19,
+      "nim": "1302210033"
+    },
+    {
+      "firstName": "Jaatsiyah Maulidina",
+      "lastName": "Astrianto",
+      "gender": "female",
+      "age": 19,
+      "nim": "1302213043"
+    }
+  ]
+}
