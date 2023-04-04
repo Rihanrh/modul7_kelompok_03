@@ -1,6 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
 
-using modul7_kelompok_03;
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        DataMahasiswa1302210033_PRAKTIKAN data1 = new DataMahasiswa1302210033_PRAKTIKAN();
+        data1.ReadJSON();
+
 
 class Program
 {
@@ -18,5 +23,6 @@ class Program
         
         DataMahasiswa1302213043 dataMahasiswa = new DataMahasiswa1302213043();  
         dataMahasiswa.ReadJSON();
+
     }
 }
