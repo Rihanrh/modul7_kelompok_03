@@ -1,0 +1,15 @@
+{
+   "firstName": "Jaatsiyah",
+   "lastName": "Astrianto",
+   "gender": "female",
+   "age": 19,
+   "adr": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRJ2H3", "name": "Pengalaman Pengguna" }
+   ]
+}
